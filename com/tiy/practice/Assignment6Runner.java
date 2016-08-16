@@ -13,6 +13,7 @@ public class Assignment6Runner {
             myAccount.setName(acctName + " - " + accountIndex);
             myAccount.setBalance(initBal * (accountIndex + 1));
             thisCanBeNamedWhatever.addBankAccount(myAccount);
+            //helllooo
         }
 
     }
